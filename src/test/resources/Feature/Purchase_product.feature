@@ -16,9 +16,3 @@ Feature: User Purchased product in Voila id website
     Then user is in pengiriman page for choose courier
     And user go to payment page for choose method payment
     And user success create transaction
-
-
-    #Then user is in confirmation information page
-    #And user input password transaction "112233"
-    #When user click ok button
-    #Then user get transaction is success
