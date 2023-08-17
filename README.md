@@ -4,4 +4,12 @@
 2. Why do you want to be a QA Engineer?
    
    Because I care about end-user experience. They work to ensure that software functions as intended, is user-friendly, and meets the needs and expectations of users.
-3. 
+3. What is your goal as a QA Engineer?
+
+   Contribute to the overall success of the software development process and end user satisfaction. both in terms of automation or analysis. As well as being able to maximize the user experience to be even better.
+4. How do you plan your goal as a QA Engineer ?
+
+   To achieve my dream as a QA engineer, I set some clear objectives. Such as defining goals to be achieved, breaking down tasks to achieve goals, consistent training, making milestones so I can be more on track.
+5. What is your expectation, If you join with Catalyst as a QA Engineer?
+
+   My hope is to be able to develop my career as a QA Engineer and to be given the opportunity to be able to learn to become a QA lead and contribute to user satisfaction and the company's success.
