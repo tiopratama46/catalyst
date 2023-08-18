@@ -20,17 +20,17 @@ public class PurchaseProduct {
     public void iOpenBrowser() {
         final String dir = System.getProperty("user.dir");
         System.out.println("current dir = " + dir);
-        System.setProperty("webdriver.chrome.driver", dir + "/driver/chromedriver.exe");
-        //System.setProperty("webdriver.gecko.driver", dir + "/driver/geckodriver");
-        driver = new ChromeDriver();
-        //driver = new FirefoxDriver();
+        //System.setProperty("webdriver.chrome.driver", dir + "/driver/chromedriver.exe");
+        System.setProperty("webdriver.gecko.driver", dir + "/driver/geckodriver.exe");
+        //driver = new ChromeDriver();
+        driver = new FirefoxDriver();
         driver.manage().window().maximize();
     }
 
     @And("user go Voila ID website")
     public void goToVoilaWebsite() throws InterruptedException {
         driver.get("https://voila.id/");
-        //driver.findElement(By.xpath("//a[contains(.,'Free Shipping to All Over Indonesia')]")).isDisplayed();
+        driver.findElement(By.xpath("//a[contains(.,'Free Shipping to All Over Indonesia')]")).isDisplayed();
         driver.findElement(By.xpath("//span[.='New Arrival']")).isDisplayed();
     }
 
