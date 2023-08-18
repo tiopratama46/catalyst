@@ -1,10 +1,5 @@
-Status automation : 
-
-![img.png](img.png)
 
 Link test cases : https://docs.google.com/spreadsheets/d/1puNILaRe6hBR7ECZFYfM5M-fZME7TuEw8IHqBPj-qZw/edit?usp=sharing 
-
-
 
 
 1. Can you tell us about your passion?
